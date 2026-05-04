@@ -1,9 +1,30 @@
-## Hi there 👋
+# Hey there! 👋 Welcome to my GitHub
 
-- 🔭 I’m currently working on [SurgicalPlanningApp](https://github.com/rajeevtc/SurgicalPlanningApp)
-- 🌱 I’m currently learning on leaveraging AI to speed-up development.
-- 👯 I’m looking to collaborate on Native iOS/tvOS/watchOS app development
-- 🤔 I’m looking for help with people or company who want to scale high-performance iOS apps
-- 💬 Ask me about SwiftUI/Scalable Apps
-- 📫 How to reach me: https://www.linkedin.com/in/rajeevtc/
-- 😍 You can also find me to make order for your needs [here](https://www.fiverr.com/users/rajivdulash/seller_dashboard)
+## About Me
+I'm a passionate iOS/tvOS/watchOS developer specializing in building high-performance, scalable native applications. I'm currently exploring how AI can accelerate development workflows.
+
+---
+
+## 🔭 Current Work
+- **[SurgicalPlanningApp](https://github.com/rajeevtc/SurgicalPlanningApp)** - A surgical planning solution
+
+## 🌱 What I'm Learning
+- Leveraging AI to speed up development processes
+
+## 💡 Expertise & Focus Areas
+- **SwiftUI** | **Scalable iOS/tvOS/watchOS Apps** | **Native App Development**
+- High-performance app architecture and optimization
+
+## 👯 Open To
+- Collaborating on native iOS/tvOS/watchOS app development
+- Partnering with companies scaling high-performance iOS applications
+
+---
+
+## 📫 Let's Connect
+- **LinkedIn:** [rajeevtc](https://www.linkedin.com/in/rajeevtc/)
+- **Freelance Services:** [Fiverr](https://www.fiverr.com/users/rajivdulash/seller_dashboard)
+
+---
+
+*Last updated: 2026-05-04*
