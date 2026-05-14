@@ -7,6 +7,7 @@ I'm a passionate iOS/tvOS/watchOS developer specializing in building high-perfor
 
 ## 🔭 Current Work
 - **[SurgicalPlanningApp](https://github.com/rajeevtc/SurgicalPlanningApp)** - A surgical planning solution
+- **[FluxSenseApp](https://github.com/rajeevtc/SurgicalPlanningApp)** - A EMF Detector solution
 
 ## 🌱 What I'm Learning
 - Leveraging AI to speed up development processes
