@@ -93,11 +93,11 @@ AI:
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent)
+![](https://github-readme-stats.vercel.app/api?username=rajeevtc&show_icons=true&theme=transparent)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME)
+![](https://github-readme-streak-stats.herokuapp.com/?user=rajeevtc)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rajeevtc&layout=compact)
 
 </div>
 
