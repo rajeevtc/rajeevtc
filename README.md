@@ -12,7 +12,7 @@
 
 📱 iOS • Android • tvOS • watchOS
 
-💼 Founder @ DulashPro Solutions
+💼 Principal iOS Engineer @ DulashPro Solutions
 
 🌏 Open to Global Opportunities
 
@@ -93,66 +93,59 @@ AI:
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent)
+![](https://github-readme-stats.vercel.app/api?username=rajeevtc&show_icons=true&theme=transparent)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME)
+![](https://github-readme-streak-stats.herokuapp.com/?user=rajeevtc)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rajeevtc&layout=compact)
 
 </div>
 
----
+
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 📊 GITHUB ANALYTICS                                                         -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<img src="./assets/section-stats.svg" width="220"/>
+
+<br/><br/>
+
+<div align="center">
+  
+  <!-- GitHub Stats + Custom Streak in ONE ROW -->
+  <a href="https://github.com/rajeevtc">
+    <img height="195em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rajeevtc&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/rajeevtc">
+    <img height="195em" src="./assets/streak.svg" alt="GitHub Streak"/>
+  </a>
+  
+  <br/><br/>
+  
+  <!-- 📊 REAL-TIME LANGUAGE USAGE WITH PROGRESS BARS -->
+  <a href="https://github.com/rajeevtc">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rajeevtc&layout=normal&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9&langs_count=8&card_width=400" alt="Top Languages" />
+  </a>
+  
+  <br/><br/>
+  
+  <!-- Activity Graph -->
+  <a href="https://github.com/rajeevtc">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajeevtc&bg_color=0d1117&color=667eea&line=764ba2&point=c9d1d9&area=true&area_color=667eea&hide_border=true&custom_title=📈%20Contribution%20Activity" width="95%" alt="Activity Graph"/>
+  </a>
+  
+  <br/><br/>
+  
+  <!-- Additional Stats Cards -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajeevtc&theme=tokyonight" width="95%" alt="Profile Details"/>
+  
+</div>
+
+
 
 # 🎬 Featured Projects
-
----
-
-## 📺 Hotstar tvOS
-
-### OTT Streaming Platform
-
-<img src="./assets/hotstar-cover.png" width="100%" />
-
-### Highlights
-
-- Live Streaming
-- Video On Demand
-- DVR Support
-- Apple TV Platform
-- High Traffic Streaming Architecture
-
-### My Contribution
-
-- tvOS Development
-- Video Playback Features
-- OTT Architecture
-- Performance Optimization
-
-<img src="./assets/hotstar-tvos.png" width="100%" />
-
----
-
-## 📺 SonyLIV tvOS
-
-### OTT Streaming Platform
-
-<img src="./assets/sonyliv-cover.png" width="100%" />
-
-### Highlights
-
-- Live Streaming
-- SVOD & TVOD
-- DVR Features
-- Apple TV Application
-
-### Leadership
-
-- Technical Lead
-- End-to-End Development
-- FIFA 2018 Release Delivery
-
-<img src="./assets/sonyliv-tvos.png" width="100%" />
-
 ---
 
 ## 🎵 GLAY
@@ -241,6 +234,54 @@ Web Integration
 
 ---
 
+## 📺 Hotstar tvOS
+
+### OTT Streaming Platform
+
+<img src="./assets/hotstar-cover.png" width="100%" />
+
+### Highlights
+
+- Live Streaming
+- Video On Demand
+- DVR Support
+- Apple TV Platform
+- High Traffic Streaming Architecture
+
+### My Contribution
+
+- tvOS Development
+- Video Playback Features
+- OTT Architecture
+- Performance Optimization
+
+<img src="./assets/hotstar-tvos.png" width="100%" />
+
+---
+
+## 📺 SonyLIV tvOS
+
+### OTT Streaming Platform
+
+<img src="./assets/sonyliv-cover.png" width="100%" />
+
+### Highlights
+
+- Live Streaming
+- SVOD & TVOD
+- DVR Features
+- Apple TV Application
+
+### Leadership
+
+- Technical Lead
+- End-to-End Development
+- FIFA 2018 Release Delivery
+
+<img src="./assets/sonyliv-tvos.png" width="100%" />
+
+---
+
 # 💼 Professional Experience
 
 | Company | Role | Duration |
@@ -296,6 +337,19 @@ struct CurrentFocus {
 
 ---
 
+## 🔭 Current Work
+- **[SurgicalPlanningApp](https://github.com/rajeevtc/SurgicalPlanningApp)** - A surgical planning solution
+- **[FluxSenseApp](https://github.com/rajeevtc/SurgicalPlanningApp)** - A EMF Detector solution
+
+## 🌱 What I'm Learning
+- Leveraging AI to speed up development processes
+
+## 💡 Expertise & Focus Areas
+- **SwiftUI** | **Scalable iOS/tvOS/watchOS Apps** | **Native App Development**
+- High-performance app architecture and optimization
+
+---
+
 # 🤝 Let's Connect
 
 <div align="center">
@@ -318,37 +372,5 @@ struct CurrentFocus {
 
 </div>
 
-
-
-
-# Hey there! 👋 Welcome to my GitHub
-
-## About Me
-I'm a passionate iOS/tvOS/watchOS developer specializing in building high-performance, scalable native applications. I'm currently exploring how AI can accelerate development workflows.
-
----
-
-## 🔭 Current Work
-- **[SurgicalPlanningApp](https://github.com/rajeevtc/SurgicalPlanningApp)** - A surgical planning solution
-- **[FluxSenseApp](https://github.com/rajeevtc/SurgicalPlanningApp)** - A EMF Detector solution
-
-## 🌱 What I'm Learning
-- Leveraging AI to speed up development processes
-
-## 💡 Expertise & Focus Areas
-- **SwiftUI** | **Scalable iOS/tvOS/watchOS Apps** | **Native App Development**
-- High-performance app architecture and optimization
-
-## 👯 Open To
-- Collaborating on native iOS/tvOS/watchOS app development
-- Partnering with companies scaling high-performance iOS applications
-
----
-
-## 📫 Let's Connect
-- **LinkedIn:** [rajeevtc](https://www.linkedin.com/in/rajeevtc/)
-- **Freelance Services:** [Fiverr](https://www.fiverr.com/users/rajivdulash/seller_dashboard)
-
----
 
 *Last updated: 2026-05-04*
