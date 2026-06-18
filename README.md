@@ -12,7 +12,7 @@
 
 📱 iOS • Android • tvOS • watchOS
 
-💼 Founder @ DulashPro Solutions
+💼 Principal iOS Engineer @ DulashPro Solutions
 
 🌏 Open to Global Opportunities
 
