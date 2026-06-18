@@ -103,6 +103,48 @@ AI:
 
 
 
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 📊 GITHUB ANALYTICS                                                         -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<img src="./assets/section-stats.svg" width="220"/>
+
+<br/><br/>
+
+<div align="center">
+  
+  <!-- GitHub Stats + Custom Streak in ONE ROW -->
+  <a href="https://github.com/red1-for-hek">
+    <img height="195em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=red1-for-hek&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/red1-for-hek">
+    <img height="195em" src="./assets/streak.svg" alt="GitHub Streak"/>
+  </a>
+  
+  <br/><br/>
+  
+  <!-- 📊 REAL-TIME LANGUAGE USAGE WITH PROGRESS BARS -->
+  <a href="https://github.com/red1-for-hek">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=red1-for-hek&layout=normal&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9&langs_count=8&card_width=400" alt="Top Languages" />
+  </a>
+  
+  <br/><br/>
+  
+  <!-- Activity Graph -->
+  <a href="https://github.com/red1-for-hek">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=red1-for-hek&bg_color=0d1117&color=667eea&line=764ba2&point=c9d1d9&area=true&area_color=667eea&hide_border=true&custom_title=📈%20Contribution%20Activity" width="95%" alt="Activity Graph"/>
+  </a>
+  
+  <br/><br/>
+  
+  <!-- Additional Stats Cards -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=red1-for-hek&theme=tokyonight" width="95%" alt="Profile Details"/>
+  
+</div>
+
+
+
 # 🎬 Featured Projects
 ---
 
