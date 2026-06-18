@@ -91,24 +91,6 @@ AI:
 
 # 📈 GitHub Stats
 
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=rajeevtc&show_icons=true&theme=transparent)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=rajeevtc)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rajeevtc&layout=compact)
-
-</div>
-
-
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- 📊 GITHUB ANALYTICS                                                         -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-<img src="./assets/section-stats.svg" width="220"/>
-
 <br/><br/>
 
 <div align="center">
@@ -142,7 +124,6 @@ AI:
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajeevtc&theme=tokyonight" width="95%" alt="Profile Details"/>
   
 </div>
-
 
 
 # 🎬 Featured Projects
