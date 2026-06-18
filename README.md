@@ -87,8 +87,6 @@ AI:
 
 </p>
 
----
-
 # 📈 GitHub Stats
 
 <br/><br/>
