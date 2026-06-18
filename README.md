@@ -114,7 +114,7 @@ AI:
 <div align="center">
   
   <!-- GitHub Stats + Custom Streak in ONE ROW -->
-  <a href="https://github.com/red1-for-hek">
+  <a href="https://github.com/rajeevtc">
     <img height="195em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rajeevtc&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
   </a>
   &nbsp;
