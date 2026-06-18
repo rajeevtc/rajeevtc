@@ -125,7 +125,6 @@ AI:
 
 
 # 🎬 Featured Projects
----
 
 ## 🎵 GLAY
 
