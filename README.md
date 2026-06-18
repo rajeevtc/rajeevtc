@@ -81,11 +81,13 @@ AI:
 
 # 🛠 Technology Stack
 
-<p align="center">
+<!-- <p align="center"> -->
 
 <img src="https://skillicons.dev/icons?i=swift,kotlin,java,androidstudio,git,github,firebase,apple,vscode" />
 
-</p>
+<!-- </p> -->
+
+---
 
 # 📈 GitHub Stats
 
