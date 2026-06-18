@@ -151,7 +151,6 @@ StoreKit
 
 <img src="./assets/glay-features.png" width="100%" />
 
----
 
 ## 🚗 Toyota UTrust
 
@@ -182,7 +181,6 @@ MVVM-C
 
 <img src="./assets/utrust-flow.png" width="100%" />
 
----
 
 ## 🎵 Fairytales
 
@@ -209,7 +207,6 @@ Web Integration
 
 <img src="./assets/fairytales-flow.png" width="100%" />
 
----
 
 ## 📺 Hotstar tvOS
 
@@ -234,7 +231,6 @@ Web Integration
 
 <img src="./assets/hotstar-tvos.png" width="100%" />
 
----
 
 ## 📺 SonyLIV tvOS
 
@@ -257,7 +253,6 @@ Web Integration
 
 <img src="./assets/sonyliv-tvos.png" width="100%" />
 
----
 
 # 💼 Professional Experience
 
@@ -275,7 +270,7 @@ Web Integration
 
 ✅ 12+ Years Experience
 
-✅ 60+ Mobile Applications Delivered
+✅ 30+ Mobile Applications Delivered
 
 ✅ OTT Streaming Expert
 
@@ -289,7 +284,7 @@ Web Integration
 
 ✅ End-to-End Product Development
 
----
+
 
 # 📚 Current Focus
 
@@ -312,7 +307,6 @@ struct CurrentFocus {
 }
 ```
 
----
 
 ## 🔭 Current Work
 - **[SurgicalPlanningApp](https://github.com/rajeevtc/SurgicalPlanningApp)** - A surgical planning solution
@@ -325,7 +319,6 @@ struct CurrentFocus {
 - **SwiftUI** | **Scalable iOS/tvOS/watchOS Apps** | **Native App Development**
 - High-performance app architecture and optimization
 
----
 
 # 🤝 Let's Connect
 
